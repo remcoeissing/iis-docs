@@ -51,6 +51,6 @@ Each configuration topic in this reference will usually consist of the following
 - [IIS 7 Download Reference Guide](https://go.microsoft.com/?linkid=9739806)
 - [IIS 7.5 Download Reference Guide](https://go.microsoft.com/?linkid=9739807)
 
-### Powershell
+### PowerShell
 
 For PowerShell support on IIS administration, refer to the [cmdlet reference](https://technet.microsoft.com/en-us/library/ee790599.aspx).
